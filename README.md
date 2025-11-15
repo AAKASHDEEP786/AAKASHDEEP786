@@ -41,13 +41,8 @@ I am open to **DevOps roles**.
 
 ### 🔹 DevOps & Cloud Tools
 <p align="left">
-  <!-- AWS -->
+  <!-- AWS (main) -->
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" title="AWS"/>
-  <img src="https://raw.githubusercontent.com/aws/icons/master/enterprise-application-services/arch_aws-lambda.svg" width="40" title="AWS Lambda"/>
-  <img src="https://raw.githubusercontent.com/aws/icons/master/compute/arch_amazon-ec2.svg" width="40" title="EC2"/>
-  <img src="https://raw.githubusercontent.com/aws/icons/master/storage/arch_amazon-s3.svg" width="40" title="S3"/>
-  <img src="https://raw.githubusercontent.com/aws/icons/master/database/arch_amazon-rds.svg" width="40" title="RDS"/>
-  <img src="https://raw.githubusercontent.com/aws/icons/master/management-and-governance/arch_amazon-cloudwatch.svg" width="40" title="CloudWatch"/>
 
   <!-- Terraform -->
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/>
@@ -55,15 +50,13 @@ I am open to **DevOps roles**.
   <!-- Docker & K8s -->
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="40" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" title="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/aws/icons/master/compute/arch_amazon-eks.svg" width="40" title="Amazon EKS"/>
 
   <!-- CI/CD -->
   <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40" title="ArgoCD"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" title="Jenkins"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" title="GitHub Actions"/>
 
-  <!-- Security & Code Quality -->
-  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40" title="SonarQube"/>
+  <!-- Security -->
   <img src="https://raw.githubusercontent.com/zaproxy/zaproxy/master/zap/src/main/resources/resource/zap128x128.png" width="40" title="OWASP ZAP"/>
 
   <!-- Others -->
