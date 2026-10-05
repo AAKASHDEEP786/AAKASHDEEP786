@@ -91,7 +91,7 @@ I am open to **DevOps roles**.
 ---
 
 ## 📬 Connect with Me
-- 📧 Email: **akashdeep960@gmail.com**  
+- 📧 Email: **aakashdeep.dev@gmail.com**  
 - 🔗 LinkedIn: **https://www.linkedin.com/in/aakash-deep-v16/**
 
 ---
